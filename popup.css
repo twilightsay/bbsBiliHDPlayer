@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+.container {
+  padding: 45px;
+  width: max-content;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 12px;
+}
+
+h1 {
+  color: #f88a8a;
+  font-size: 17px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+p {
+  color: #333;
+  font-size: 14px;
+  text-align: center;
+  line-height: 1.5; /* 增加行高 */
+}
+
+button {
+  background-color: #ff85ae;
+  color: white;
+  padding: 10px 20px;
+  margin: 10px 0;
+  position: center;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ffa0aa;
+}
+
+small {
+  color: #666;
+}
+
+.logo {
+  background-image: url(tsfkltlogo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 212px;
+  height: 52px;
+  position: absolute;
+  margin-left: 300px;
+}
+.logo2 {
+    background-image: url(mgzh.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 130px;
+    height: 43px;
+    position: absolute;
+    margin-left: 146px;
+    margin-top: 3px;
+}
